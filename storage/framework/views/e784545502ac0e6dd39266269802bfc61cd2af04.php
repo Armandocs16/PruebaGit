@@ -18,7 +18,7 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: ##2CE26C;
+                color: #2CE26C;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -67,6 +67,7 @@
                 margin-bottom: 30px;
             }
             .pri{
+                font-size: 20px;
                 margin-top: 10px;
                 transition: 0.3s;
             }
