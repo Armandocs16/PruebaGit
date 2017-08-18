@@ -4,6 +4,10 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="<?php echo e(asset('css/bootstrap.min.css')); ?>">
+        <link rel="stylesheet" href="<?php echo e(asset('css/app.css')); ?>">
+        <link rel="stylesheet" href="<?php echo e(asset('css/bootstrap-grid.min.css')); ?>">
+        <link rel="stylesheet" href="<?php echo e(asset('css/bootstrap.reboot.min.css')); ?>">
 
         <title>Prueba Git</title>
 
@@ -62,6 +66,13 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            .pri{
+                margin-top: 10px;
+                transition: 0.3s;
+            }
+            .pri:hover{
+                transform: scale(1.2);
+            }
         </style>
     </head>
     <body>
@@ -89,7 +100,13 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <div>
+                    <a href="#" class="btn btn-primary pri">GO</a>
+                </div>
             </div>
         </div>
+        <script src="<?php echo e(asset('js/jquery-3.2.1.min.js')); ?>"></script>
+        <script src="<?php echo e(asset('js/app.js')); ?>"></script>
+        <script src="<?php echo e(asset('js/bootstrap.min.js')); ?>"></script>
     </body>
 </html>
