@@ -14,7 +14,7 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: #636b6f;
+                color: ##2CE26C;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 height: 100vh;
@@ -78,7 +78,7 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+                <div class="title m-b-md" style="color: #1AA9BA">
                     Prueba Git
                 </div>
 

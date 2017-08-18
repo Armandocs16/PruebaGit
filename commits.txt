@@ -1,0 +1,23 @@
+commit 3b5b78420f9cf1a2b70668d1c3e5f6c7f1f6dc9a
+Author: Armandocs16 <ep-armand@hotmail.com>
+Date:   Fri Aug 18 01:04:54 2017 -0500
+
+    Se cambio de caster a commit
+
+commit 18307d82baec07987a564a8ad946d244bcc37f1e
+Author: Armandocs16 <ep-armand@hotmail.com>
+Date:   Fri Aug 18 00:40:00 2017 -0500
+
+    Se agrego la autentificacion auth usando el comando make:auth, este comando creo nuevas rutas, estas se encontraban el direcorio Routers.php en el metodo auth, se copiaron las rutas y se agregaron en el archivo web.php para tener una mejor legibilidad del codigo
+
+commit 599b0b73b6e21b295dcff92c37a60e077d4ea8fb
+Author: Armandocs16 <ep-armand@hotmail.com>
+Date:   Fri Aug 18 00:10:45 2017 -0500
+
+    Se cambio el titulo de la aplicacion
+
+commit 2576df77cc215998cdefbcb89e3b42ddbf7c4892
+Author: Armandocs16 <ep-armand@hotmail.com>
+Date:   Fri Aug 18 00:04:33 2017 -0500
+
+    Inicia el proyecto Prueba
