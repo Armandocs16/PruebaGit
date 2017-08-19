@@ -103,6 +103,7 @@
                 </div>
                 <div>
                     <a href="#" class="btn btn-primary pri">GO</a>
+                    <a href="#" class="btn btn-danger pri">Cancel</a>
                 </div>
             </div>
         </div>
